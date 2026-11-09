@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { Menu, X, CalendarDays, ShieldCheck, ChevronRight } from "lucide-react";
@@ -42,3 +43,4 @@ export default function Navbar() {
     </header>
   );
 }
+
